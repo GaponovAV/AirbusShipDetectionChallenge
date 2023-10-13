@@ -1,0 +1,15 @@
+tensorflow-addons==0.21.0
+keras==2.14.0
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-image
+opencv-python
+sklearn
+IPython
+imagehash
+Pillow
+imagehash
+scipy
