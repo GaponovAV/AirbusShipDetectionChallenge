@@ -6,3 +6,7 @@ I also trained my model using GPU on Kaggle and each epoch took about 4 hours. S
 
 The functions are distributed in the . 
 All necessary packages and libraries are located in requerement.txt 
+
+You should also review the function for image augmentation and choose the changes that would positively affect the metrics.
+
+Metrics for evaluating DICE
